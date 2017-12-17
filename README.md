@@ -12,6 +12,12 @@
 
 · 1: 路飞
 
-· 2: 小娜
+![lufei](https://github.com/wchzh/test008/blob/master/file01/12-04-26-u%3D1350635263%2C2242333210%26fm%3D214%26gp%3D0.jpg?raw=true)
 
-· 3: 厨师
+· 2: 考研
+
+![kaoyan](https://github.com/wchzh/test008/blob/master/file01/09-05-36-image.jpg)
+
+· 3: 奋斗
+
+![fendou](https://github.com/wchzh/test008/blob/master/file01/12-07-25-20140911215439_EEJJn.thumb.700_0.png)
